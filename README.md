@@ -1,7 +1,7 @@
 ## A. Personal Introduction
 
 Hi there! 👋  
-My name is **Mozon Shadan**, and I am a passionate **Computer Science student** pursuing an Honours degree in **Computer Science and Cybersecurity**.  
+My name is **Jerry Vilanculos**, and I am a passionate **Computer Science student** pursuing an Honours degree in **Computer Science and Cybersecurity**.  
 
 I am driven by a strong interest in using technology to solve real-world problems and contribute positively to South African communities. My long-term goal is to become a cybersecurity professional and develop innovative solutions that improve digital safety and access to information.
 
